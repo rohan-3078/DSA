@@ -1,1 +1,1 @@
-string = input("in")
+string = input("input string")
